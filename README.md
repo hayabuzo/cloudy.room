@@ -1,4 +1,4 @@
-# cloudy.room
+# cloudy.room (p5.js/WebGL)
 
 Image viewer with depth effects for hypnotic immersion into the picture atmosphere.
 
