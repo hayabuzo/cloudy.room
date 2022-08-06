@@ -6,4 +6,4 @@ Image viewer with depth effects for hypnotic immersion into the picture atmosphe
 
 🚀 [Run at Website](https://hayabuzo.me/tools/cloud/)
 
-🎲 [Download Chrome Extension]
+🎲 [Install Chrome Extension](https://github.com/hayabuzo/cloudy.room/tree/main/chrome%20extension)
