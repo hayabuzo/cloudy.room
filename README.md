@@ -10,8 +10,8 @@ Image viewer with hypnotic depth effects.
 
 ## Controls
 
-**Move image:** left click and drag.
+- **Move image:** left click and drag.
 
-**Change scale:** mouse wheel scroll up/down, wheel click.
+- **Change scale:** mouse wheel scroll up/down, wheel click.
 
-**Open new image:** drag and drop a file into the window.
+- **Open new image:** drag and drop a file into the window.
