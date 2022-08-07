@@ -8,6 +8,18 @@ Image viewer with hypnotic depth effects.
 
 🎲 [Install Chrome Extension](https://github.com/hayabuzo/cloudy.room/tree/main/chrome%20extension)
 
+## Features
+
+- Dynamic lighting (chrome effect with noise map).
+
+- 3D-like depth map displacement (brightness map).
+
+- Depth field distortion (dynamic radial zoom blur).
+
+- Flying dust particles (sine/noise motion).
+
+- Face recognition threshold (js-objectdetect lib). 
+
 ## Controls
 
 - **Move image:** left click and drag.
