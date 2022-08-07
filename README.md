@@ -10,7 +10,7 @@ Image viewer with hypnotic depth effects.
 
 ## Features
 
-- Dynamic lighting (chrome effect with noise map).
+- Dynamic "cloudy" lighting (chrome effect with noise map).
 
 - 3D-like depth map displacement (brightness map).
 
